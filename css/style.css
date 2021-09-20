@@ -1,0 +1,48 @@
+#mensaje {
+    position: fixed;
+   bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    
+}
+
+.mensaje2 {
+   
+  margin:0px;
+  padding:0px;
+   
+    
+}
+
+
+
+
+
+#contenidoMensaje {
+    margin:  0 auto;
+}
+
+.cuerpoModal{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: row;
+width: 100%;
+column-gap: 1em;
+
+
+}
+
+.parte{
+
+width: 60%;
+
+}
+
+.parte2{
+
+    width: 38%;
+    
+    }
+
